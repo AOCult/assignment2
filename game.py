@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import random
 
 def main():
@@ -18,3 +19,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+
+>>>>>>> 2b74c786dea74702a212aea0c66ddec2641d1647
